@@ -1,7 +1,3 @@
-//
-// Created by Felipe Coelho on 20/02/20.
-//
-
 #include "bin2dec.h"
 
 int		ft_recursive_power(int nb, int power)

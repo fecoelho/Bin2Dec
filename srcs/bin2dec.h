@@ -1,7 +1,3 @@
-//
-// Created by Felipe Coelho on 20/02/20.
-//
-
 #ifndef BIN2DEC_BIN2DEC_H
 #define BIN2DEC_BIN2DEC_H
 

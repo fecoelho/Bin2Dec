@@ -1,7 +1,3 @@
-//
-// Created by Felipe Coelho on 20/02/20.
-//
-
 int 	ft_strlen(char *str)
 {
 	int i;

@@ -1,7 +1,3 @@
-//
-// Created by Felipe Coelho on 20/02/20.
-//
-
 #include "bin2dec.h"
 
 void	revbin(char *bin, int size)

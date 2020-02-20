@@ -13,4 +13,4 @@ void	revbin(char *bin, int size);
 int 	checkinput(char *input);
 int 	ft_strlen(char *str);
 
-#endif //BIN2DEC_BIN2DEC_H
+#endif //BIN2DEC_BIN2DEC_Hß

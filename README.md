@@ -1,6 +1,8 @@
 # Bin2Dec
 A simple program in C that turns binaries into decimals.
 
+[![]https://img.shields.io/github/languages/top/fecoelho/Bin2Dec?style=plastic]
+
 ## How to use?
 
   1. Clone the repository:
